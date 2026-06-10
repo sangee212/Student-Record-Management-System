@@ -2,6 +2,8 @@
 A C-based Student Record Management System that uses file handling to add, view, search, update, and delete student records efficiently.
 
 Features
+
+
     Add Student
     View Student
     Search Student
