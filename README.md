@@ -1,7 +1,7 @@
 # Student-Record-Management-System
 A C-based Student Record Management System that uses file handling to add, view, search, update, and delete student records efficiently.
-Features
 
+Features
     Add Student
     View Student
     Search Student
